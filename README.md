@@ -79,12 +79,6 @@ python netflix_dashboard.py
 
 ---
 
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="D:\Coding\Python Project\Seaborn\NetFlix\Images\netflix_dashboard.png" width="900">
-</p>
-
 ---
 
 ## 🎯 Learning Outcomes
